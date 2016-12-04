@@ -1,5 +1,5 @@
 {
-    "name": "kokspflanze/zfc-twig",
+    "name": "saadhre/zfc-twig",
     "description": "Zend Framework Module that provides a Twig rendering strategy and extensions to render actions or trigger events from your templates",
     "type": "library",
     "keywords": [
